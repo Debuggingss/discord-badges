@@ -1,5 +1,3 @@
-from svglib.svglib import svg2rlg
-from reportlab.graphics import renderPDF, renderPM
 import requests
 
 # Base discord assets url
@@ -38,12 +36,3 @@ for i in img_urls:
     # Put them in the svgs folder and save them
     with open("svgs/" + i.replace("https://discordapp.com/assets/", ""), 'wb') as f:
         f.write(r.content)
-
-# Convert all the SVG files to PNG files using svglib
-for i in img_urls:
-    # Get the SVG files from the svgs folder
-    drawing = svg2rlg("svgs/" + i.replace("https://discordapp.com/assets/", ""))
-    # Render the SVG files, convert them to PNG and save them in the pngs folder
-    renderPM.drawToFile(drawing, "pngs/" + i
-                        .replace("https://discordapp.com/assets/", "")
-                        .replace(".svg", "") + ".png", fmt="PNG")
