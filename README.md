@@ -5,7 +5,7 @@ I do not own any of these assets, all of them belong to Discord.
 
 [![discord](https://img.shields.io/badge/Discord-blue?style=for-the-badge)](https://discord.com/)
 [![python](https://img.shields.io/badge/python-v3.8.3-green?style=for-the-badge)](https://www.python.org/downloads/release/python-383/)
-
+[![node](https://img.shields.io/badge/Node.js-red?style=for-the-badge)](https://nodejs.org/en/)
 PYTHON: Downloading the SVG files quickly
 
 NODE: Convering SVG to PNG
