@@ -13,7 +13,6 @@ Original URLs:
 https://discordapp.com/assets/4358ad1fb423b346324516453750f569.svg
 https://discordapp.com/assets/33fedf082addb91d88abc272b4b18daa.svg
 https://discordapp.com/assets/6c73f47daf179ffade99f501bfc5101b.svg
-
 https://discordapp.com/assets/64ae1208b6aefc0a0c3681e6be36f0ff.svg
 https://discordapp.com/assets/48cf0556d93901c8cb16317be2436523.svg
 https://discordapp.com/assets/9fdc63ef8a3cc1617c7586286c34e4f1.svg
