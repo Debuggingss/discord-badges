@@ -6,7 +6,8 @@ I do not own any of these assets, all of them belong to Discord.
 [![discord](https://img.shields.io/badge/Discord-blue?style=for-the-badge)](https://discord.com/)
 [![python](https://img.shields.io/badge/python-v3.8.3-green?style=for-the-badge)](https://www.python.org/downloads/release/python-383/)
 
-20/23 of the svg files were converted using the custom script, the other 3 had an interesting gradient so I had to use this tool to convert my svg files: https://ezgif.com/svg-to-png
+PYTHON: Downloading the SVG files quickly
+NODE: Convering SVG to PNG
  
 Original URLs:
 - https://discordapp.com/assets/4358ad1fb423b346324516453750f569.svg
