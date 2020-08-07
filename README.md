@@ -9,7 +9,7 @@ I do not own any of these assets, all of them belong to Discord.
 20/23 of the svg files were converted using the custom script, the other 3 had an interesting gradient so I had to use this tool to convert my svg files: https://ezgif.com/svg-to-png
  
 Original URLs:
-```
+
 https://discordapp.com/assets/4358ad1fb423b346324516453750f569.svg
 https://discordapp.com/assets/33fedf082addb91d88abc272b4b18daa.svg
 https://discordapp.com/assets/6c73f47daf179ffade99f501bfc5101b.svg
@@ -33,4 +33,4 @@ https://discordapp.com/assets/5a24b20b84fb3eafc138916729386e76.svg
 https://discordapp.com/assets/f31d590e1f3629cd0b614330f4a8ee2a.svg
 https://discordapp.com/assets/9ba64f1fa91ccde0eba506c1c33f3d1a.svg
 https://discordapp.com/assets/45cd06af582dcd3c6b79370b4e3630de.svg
-```
+
